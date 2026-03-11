@@ -1,5 +1,6 @@
 # Tema: Fundamentos de Investimentos e Independência Financeira
-1. Apresentação do Caderno
+
+#1. Apresentação do Caderno
 
 Este caderno temático tem como objetivo estudar conceitos fundamentais de finanças pessoais e investimentos, utilizando inteligência artificial como ferramenta de apoio ao aprendizado.
 
@@ -19,7 +20,7 @@ construção de um glossário de conceitos financeiros
 
 O resultado final é um miniguia de estudo reutilizável, que permite revisar os conteúdos com rapidez e aprofundar o aprendizado por meio de novas interações com IA.
 
-2. Objetivos de Estudo
+#2. Objetivos de Estudo
 
 Objetivo geral:
 
@@ -37,7 +38,7 @@ conhecer indicadores financeiros básicos
 
 desenvolver pensamento crítico na análise de investimentos
 
-3. Perguntas Estratégicas de Pesquisa
+#3. Perguntas Estratégicas de Pesquisa
 
 Perguntas que orientam o estudo:
 
@@ -53,7 +54,7 @@ Como avaliar o risco de um investimento?
 
 Quais são os principais indicadores usados para analisar investimentos?
 
-4. Teste de Prompts com IA
+#4. Teste de Prompts com IA
 
 Nesta seção são registrados os prompts utilizados, as respostas obtidas e as referências citadas.
 
@@ -103,7 +104,7 @@ fundos imobiliários
 
 ETFs
 
-5. Resumos Estruturados
+#5. Resumos Estruturados
 Conceito de Juros Compostos
 
 Juros compostos são juros calculados sobre o valor inicial investido somado aos juros acumulados ao longo do tempo.
@@ -148,7 +149,7 @@ fundos imobiliários
 
 ativos internacionais
 
-6. Glossário de Conceitos
+#6. Glossário de Conceitos
 
 Ativo financeiro
 Instrumento que representa valor econômico e pode gerar rendimento.
@@ -168,7 +169,7 @@ Estratégia de distribuir investimentos em diferentes ativos para reduzir riscos
 Liquidez
 Facilidade de converter um investimento em dinheiro.
 
-7. Prompts Reutilizáveis para Estudo
+#7. Prompts Reutilizáveis para Estudo
 
 Esses prompts podem ser usados para aprofundar o aprendizado.
 
@@ -192,7 +193,7 @@ Prompt de revisão
 
 Crie 10 perguntas de revisão sobre o tema [investimentos] para testar meu aprendizado.
 
-8. Reflexão sobre o Uso da IA no Aprendizado
+#8. Reflexão sobre o Uso da IA no Aprendizado
 
 A utilização da inteligência artificial como ferramenta de estudo permite:
 

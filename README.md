@@ -1,6 +1,6 @@
 # Tema: Fundamentos de Investimentos e Independência Financeira
 
-#1. Apresentação do Caderno
+# 1. Apresentação do Caderno
 
 Este caderno temático tem como objetivo estudar conceitos fundamentais de finanças pessoais e investimentos, utilizando inteligência artificial como ferramenta de apoio ao aprendizado.
 
@@ -18,9 +18,16 @@ organização dos conteúdos em resumos estruturados
 
 construção de um glossário de conceitos financeiros
 
+Fontes:https://www.santander.com.br/blog/independencia-financeira
+https://blog.daycoval.com.br/investir-melhor/
+https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/investimento-para-iniciantes/
+https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/liberdade-financeira/
+https://www.gov.br/investidor/pt-br/penso-logo-invisto/nocoes-fundamentais-de-investimento-construindo-um-futuro-financeiro-solido-1
+https://www.planejar.org.br/o-que-realmente-e-independencia-financeira-e-como-alcancar-esse-objetivo
+
 O resultado final é um miniguia de estudo reutilizável, que permite revisar os conteúdos com rapidez e aprofundar o aprendizado por meio de novas interações com IA.
 
-#2. Objetivos de Estudo
+# 2. Objetivos de Estudo
 
 Objetivo geral:
 
@@ -38,7 +45,7 @@ conhecer indicadores financeiros básicos
 
 desenvolver pensamento crítico na análise de investimentos
 
-#3. Perguntas Estratégicas de Pesquisa
+# 3. Perguntas Estratégicas de Pesquisa
 
 Perguntas que orientam o estudo:
 
@@ -54,7 +61,7 @@ Como avaliar o risco de um investimento?
 
 Quais são os principais indicadores usados para analisar investimentos?
 
-#4. Teste de Prompts com IA
+# 4. Teste de Prompts com IA
 
 Nesta seção são registrados os prompts utilizados, as respostas obtidas e as referências citadas.
 
@@ -104,7 +111,7 @@ fundos imobiliários
 
 ETFs
 
-#5. Resumos Estruturados
+# 5. Resumos Estruturados
 Conceito de Juros Compostos
 
 Juros compostos são juros calculados sobre o valor inicial investido somado aos juros acumulados ao longo do tempo.
@@ -193,7 +200,7 @@ Prompt de revisão
 
 Crie 10 perguntas de revisão sobre o tema [investimentos] para testar meu aprendizado.
 
-#8. Reflexão sobre o Uso da IA no Aprendizado
+# 8. Reflexão sobre o Uso da IA no Aprendizado
 
 A utilização da inteligência artificial como ferramenta de estudo permite:
 
